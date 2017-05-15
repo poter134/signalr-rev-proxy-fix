@@ -1,0 +1,6 @@
+{
+  "name": "signalr",
+  "version": "1.0.0",
+  "author": "Pete Lea",
+  "main": "bin/jquery.signalr.min.js"
+}
